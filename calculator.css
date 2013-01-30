@@ -1,127 +1,127 @@
 
 #calc {
-	position: fixed;
-	top: 20px;
-	right: -200px;
+  position: fixed;
+  top: 20px;
+  right: -200px;
 }
 
 
 #calc td {
-	width:50px;
-	height:50px; 
-	cursor: pointer;
-	text-align: center;
-	font: 20px bold 'Arial';
-	
-/*	border:1px solid #333;  */
-	
+  width:50px;
+  height:50px; 
+  cursor: pointer;
+  text-align: center;
+  font: 20px bold 'Arial';
+  
+/*  border:1px solid #333;  */
+  
 } 
 
 #calc div.bluebutton {
-	
-	width:100%;
-	height:100%;
-	padding: 15px 0; 
-	border-radius: 50%; 
-/*	background:blue;*/
-	color: #fff;
+  
+  width:100%;
+  height:100%;
+  padding: 15px 0; 
+  border-radius: 50%; 
+/*  background:blue;*/
+  color: #fff;
 }
 
 
 .css3button {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #ffffff;
-/*	padding: 10px 30px;*/
-	background: -moz-linear-gradient(
-		top,
-		#7eb6e6 0%,
-		#2e6cb8);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#7eb6e6),
-		to(#2e6cb8));
-/*	-moz-border-radius: 7px;*/
-/*	-webkit-border-radius: 7px;*/
-/*	border-radius: 7px;*/
-	border: 1px solid #ffffff;
-	-moz-box-shadow:
-		2px 2px 3px rgba(000,000,000,0.4),
-		inset 0px 0px 1px rgba(073,094,235,1);
-	-webkit-box-shadow:
-		2px 2px 3px rgba(000,000,000,0.4),
-		inset 0px 0px 1px rgba(073,094,235,1);
-	box-shadow:
-		2px 2px 3px rgba(000,000,000,0.4),
-		inset 0px 0px 1px rgba(073,094,235,1);
-	text-shadow:
-		0px -1px 0px rgba(000,000,000,0.2),
-		0px 1px 0px rgba(255,255,255,0.3);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+/*  padding: 10px 30px;*/
+  background: -moz-linear-gradient(
+    top,
+    #7eb6e6 0%,
+    #2e6cb8);
+  background: -webkit-gradient(
+    linear, left top, left bottom, 
+    from(#7eb6e6),
+    to(#2e6cb8));
+/*  -moz-border-radius: 7px;*/
+/*  -webkit-border-radius: 7px;*/
+/*  border-radius: 7px;*/
+  border: 1px solid #ffffff;
+  -moz-box-shadow:
+    2px 2px 3px rgba(000,000,000,0.4),
+    inset 0px 0px 1px rgba(073,094,235,1);
+  -webkit-box-shadow:
+    2px 2px 3px rgba(000,000,000,0.4),
+    inset 0px 0px 1px rgba(073,094,235,1);
+  box-shadow:
+    2px 2px 3px rgba(000,000,000,0.4),
+    inset 0px 0px 1px rgba(073,094,235,1);
+  text-shadow:
+    0px -1px 0px rgba(000,000,000,0.2),
+    0px 1px 0px rgba(255,255,255,0.3);
 }
 
 
 .css3calc {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	color: #ffffff;
-	padding: 20px;
-	background: -moz-linear-gradient(
-		top,
-		#7eb6e6 0%,
-		#2e6cb8);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#7eb6e6),
-		to(#2e6cb8));
-/*	-moz-border-radius: 7px;*/
-/*	-webkit-border-radius: 7px;*/
-/*	border-radius: 7px;*/
-	border: 1px solid #ffffff;
-	-moz-box-shadow:
-		2px 2px 3px rgba(000,000,000,0.4),
-		inset 0px 0px 1px rgba(073,094,235,1);
-	-webkit-box-shadow:
-		2px 2px 3px rgba(000,000,000,0.4),
-		inset 0px 0px 1px rgba(073,094,235,1);
-	box-shadow:
-		2px 2px 3px rgba(000,000,000,0.4),
-		inset 0px 0px 1px rgba(073,094,235,1);
-	text-shadow:
-		0px -1px 0px rgba(000,000,000,0.2),
-		0px 1px 0px rgba(255,255,255,0.3);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+  padding: 20px;
+  background: -moz-linear-gradient(
+    top,
+    #7eb6e6 0%,
+    #2e6cb8);
+  background: -webkit-gradient(
+    linear, left top, left bottom, 
+    from(#7eb6e6),
+    to(#2e6cb8));
+/*  -moz-border-radius: 7px;*/
+/*  -webkit-border-radius: 7px;*/
+/*  border-radius: 7px;*/
+  border: 1px solid #ffffff;
+  -moz-box-shadow:
+    2px 2px 3px rgba(000,000,000,0.4),
+    inset 0px 0px 1px rgba(073,094,235,1);
+  -webkit-box-shadow:
+    2px 2px 3px rgba(000,000,000,0.4),
+    inset 0px 0px 1px rgba(073,094,235,1);
+  box-shadow:
+    2px 2px 3px rgba(000,000,000,0.4),
+    inset 0px 0px 1px rgba(073,094,235,1);
+  text-shadow:
+    0px -1px 0px rgba(000,000,000,0.2),
+    0px 1px 0px rgba(255,255,255,0.3);
 }
 
 #reset {
-	
-	background: -moz-linear-gradient(
-		top,
-		#cc8b1a 0%,
-		#afb82e);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#cc8b1a),
-		to(#afb82e));
+  
+  background: -moz-linear-gradient(
+    top,
+    #cc8b1a 0%,
+    #afb82e);
+  background: -webkit-gradient(
+    linear, left top, left bottom, 
+    from(#cc8b1a),
+    to(#afb82e));
 }
 
 #screen {
-	background: -moz-linear-gradient(
-		top,
-		#0e3f66 0%,
-		#2e6cb8);
-	background: -webkit-gradient(
-		linear, left top, left bottom, 
-		from(#0e3f66),
-		to(#2e6cb8));
-	
+  background: -moz-linear-gradient(
+    top,
+    #0e3f66 0%,
+    #2e6cb8);
+  background: -webkit-gradient(
+    linear, left top, left bottom, 
+    from(#0e3f66),
+    to(#2e6cb8));
+  
 }
 
 .css3button:active {
-	background: -moz-linear-gradient(
-		top,
-		#7eb6e6 0%,
-		#2e6cb8);
-	background: -webkit-gradient(
-		linear, left bottom, left top, 
-		from(#7eb6e6),
-		to(#2e6cb8));
+  background: -moz-linear-gradient(
+    top,
+    #7eb6e6 0%,
+    #2e6cb8);
+  background: -webkit-gradient(
+    linear, left bottom, left top, 
+    from(#7eb6e6),
+    to(#2e6cb8));
 }
