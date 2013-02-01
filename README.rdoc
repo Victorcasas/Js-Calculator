@@ -1,24 +1,27 @@
 == About
 
-Simple and clean calculator, wich is written on Jquery.
-
-Just link these 2 files to your directory.
+Simple and clean calculator, which is written on jQuery. 
 
 == For Ruby-on-Rails
 
 Place these 2 files in your assets folders
+
 * assets/javascripts
 * assets/styles
 
-Make sure, that you have jquery-rails gem
+Add to your gemfile:
+
+* gem 'jquery-rails' 
 
 == For others
 
-Link these files in your HEAD-tag
+Link these files in your <head> tag:
 
-* "<script src="/assets/calculator.js" type="text/javascript"></script>"
-* "<link href="/assets/calculator.css" media="all" rel="stylesheet" type="text/css" />"
+* <script src="calculator.js" type="text/javascript"></script>
+* <link href="calculator.css" media="all" rel="stylesheet" type="text/css" />
 
-Make sure, that you already downloaded and linked Jquery or Jquery-min to your site.
+Also make sure, that you linked jQquery or Jquery-min to your site (latest version http://jquery.com/download):
+
+* e.g. <script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
 
 Good luck :)
